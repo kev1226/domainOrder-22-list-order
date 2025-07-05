@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+ariadne
+motor
+python-jose
+python-dotenv
